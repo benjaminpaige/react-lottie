@@ -1,6 +1,6 @@
 {
   "name": "react-lottie-no-troy",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "lottie animation view for React without the troy",
   "repository": {
     "type": "git",
@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "lottie-web": "5.1.3"
+    "lottie-web": "5.7.3"
   },
   "main": "dist/index.js",
   "engines": {
