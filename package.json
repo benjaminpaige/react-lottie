@@ -1,10 +1,10 @@
 {
-  "name": "react-lottie",
+  "name": "react-lottie-no-troy",
   "version": "1.2.3",
-  "description": "lottie animation view for React",
+  "description": "lottie animation view for React without the troy",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chenqingspring/react-lottie"
+    "url": "https://github.com/benjaminpaige/react-lottie"
   },
   "license": "MIT",
   "scripts": {
